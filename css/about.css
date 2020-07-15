@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  font-size: 25px;
+  margin: 20px;
+  color: #ffffff;
+}
+h1 > div{
+  display: inline-block;
+}
+
+.about-image-link{
+  text-align: center;
+}
+
+.about-container{
+  text-align: center;
+  margin: 25px;
+}
+
+.intro-text{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: #ffffff;
+}
+
+/* .intro-text p a{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: rgb(211, 211, 211);
+    
+} */
+/*  */
+
+.navbar > a{
+  color: blue;
+}
